@@ -1,7 +1,7 @@
-# Farhan Pathan
+ï»¿# Farhan Pathan
 ### Full Stack Developer
 
-Product-focused Full Stack Developer specializing in building modern web applications, scalable SaaS platforms, and AI-integrated products. Experienced across the full software lifecycle—from intuitive, responsive React and Next.js frontends to robust Node.js backends, REST APIs, and database architecture.
+Product-focused Full Stack Developer specializing in building modern web applications, scalable SaaS platforms, and AI-integrated products. Experienced across the full software lifecycle - from intuitive, responsive React and Next.js frontends to robust Node.js backends, REST APIs, and database architecture.
 
 ---
 
