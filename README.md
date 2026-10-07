@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
 # Farhan Pathan
 ### **Full Stack Developer • SaaS & AI Product Engineer**
-📍 Pune, India &nbsp;•&nbsp; 📧 [pathanfarhan361@gmail.com](mailto:pathanfarhan361@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/)
+📍 Pune, India &nbsp;•&nbsp; 📧 [pathanfarhan361@gmail.com](mailto:pathanfarhan361@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/farhan-pathan-bab660297/)
 
 <br />
 
@@ -70,7 +70,7 @@ A full-stack peer-to-peer marketplace connecting gamers to buy, sell, and negoti
 
 ### 📬 Connect & Contact
 
-- 💼 **LinkedIn:** [Farhan Pathan](https://www.linkedin.com/in/)
+- 💼 **LinkedIn:** [Farhan Pathan](https://www.linkedin.com/in/farhan-pathan-bab660297/)
 - 🐙 **GitHub:** [@Farhanpathan12](https://github.com/Farhanpathan12)
 - 📧 **Direct Email:** [pathanfarhan361@gmail.com](mailto:pathanfarhan361@gmail.com)
 - 🤝 Open to Full Stack Developer opportunities, high-growth SaaS engineering teams, and technical collaborations.
