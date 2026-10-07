@@ -1,18 +1,18 @@
-﻿<div align="center">
+<div align="center">
 
 # Farhan Pathan
 ### **Full Stack Developer • SaaS & AI Product Engineer**
-📍 Pune, India • 📧 [pathanfarhan361@gmail.com](mailto:pathanfarhan361@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/)
+📍 Pune, India &nbsp;•&nbsp; 📧 [pathanfarhan361@gmail.com](mailto:pathanfarhan361@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/)
 
 <br />
 
-> Full Stack Developer experienced in architecting scalable SaaS application modules, high-performance Next.js 16/React 19 interfaces, and multi-provider AI integrations. Passionate about turning complex product requirements into clean, production-ready code.
+> Full Stack Developer experienced in architecting scalable SaaS application modules, high-performance Next.js 16 / React 19 interfaces, and multi-provider AI integrations. Focused on building clean, production-ready systems from concept to deployment.
 
 <br />
 
 [![Live Demo](https://img.shields.io/badge/Featured_Work-Live_Demos-10B981?style=for-the-badge&logo=vercel&logoColor=white)](#-featured-projects)
-[![Tech Stack](https://img.shields.io/badge/Architecture-Next.js_%7C_Node_%7C_Postgres-000000?style=for-the-badge&logo=next.js&logoColor=white)](#-technical-stack)
-[![Contact](https://img.shields.io/badge/Get_In_Touch-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#-connect--contact)
+[![Tech Stack](https://img.shields.io/badge/Stack-Next.js_%7C_Node_%7C_Postgres-000000?style=for-the-badge&logo=next.js&logoColor=white)](#-technical-stack)
+[![Contact](https://img.shields.io/badge/Contact-Get_In_Touch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#-connect--contact)
 
 </div>
 
@@ -22,17 +22,17 @@
 
 ### 🚀 What I Do
 
-- ⚡ **Full-Stack SaaS Architecture:** Building modular full-stack web applications with **Next.js (App Router)**, **Node.js**, **Express.js**, and robust RESTful API data pipelines.
-- 🤖 **AI & LLM Integration:** Designing practical integrations with **Google Gemini & multi-provider AI models** for computer vision inspection, automated workflows, and content moderation.
-- 🗄️ **Database Modeling & Performance:** Schema design and complex query optimization across **PostgreSQL (Supabase, Prisma ORM)** and **MongoDB (Mongoose)**.
-- 🎨 **Modern Frontend & UI/UX:** Translating high-fidelity prototypes into responsive, accessible, high-FCP web apps using **Tailwind CSS v4** and **Framer Motion**.
+- ⚡ **Full-Stack SaaS Architecture:** Building modular web applications with **Next.js 16 (App Router)**, **Node.js**, **Express.js**, and robust RESTful API data pipelines.
+- 🤖 **AI & LLM Integrations:** Engineering multi-provider AI workflows (**Google Gemini / GenAI models**) for hardware vision inspection, OCR, and real-time content moderation.
+- 🗄️ **Database Modeling & Performance:** Designing secure, optimized database schemas across **PostgreSQL (Supabase, Prisma ORM)** and **MongoDB (Mongoose)**.
+- 🎨 **Modern Frontend & UI/UX:** Translating high-fidelity prototypes into responsive, accessible, high-performance interfaces using **Tailwind CSS v4** and **Framer Motion**.
 
 ---
 
 ### 🛠️ Technical Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frontend:** Next.js 16 (App Router), React 19, Tailwind CSS v4, Framer Motion
+- **Frontend Frameworks:** Next.js 16 (App Router), React 19, Tailwind CSS v4, Framer Motion
 - **Backend & APIs:** Node.js, Express.js, RESTful APIs, Webhooks
 - **Databases & ORMs:** PostgreSQL, Supabase, Prisma ORM, MongoDB, Mongoose
 - **AI & Integrations:** Google Gemini API, Multi-provider AI (Gemini / OpenAI), Clerk Auth, Resend
