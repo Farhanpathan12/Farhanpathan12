@@ -1,7 +1,7 @@
-﻿# Farhan Pathan
+# Farhan Pathan
 ### Full Stack Developer
 
-Product-focused Full Stack Developer specializing in building modern web applications, scalable SaaS platforms, and AI-integrated products. Experienced across the full software lifecycle—from intuitive, responsive React and Next.js frontends to robust Node.js backends, REST APIs, and database architecture.
+Product-focused Full Stack Developer specializing in building modern web applications, scalable SaaS platforms, and AI-integrated products. Experienced across the full software lifecycle�from intuitive, responsive React and Next.js frontends to robust Node.js backends, REST APIs, and database architecture.
 
 ---
 
@@ -25,7 +25,7 @@ Embeddable changelog and product updates SaaS with customizable in-app widgets, 
 #### [PGH Gaming Hub](https://pgh-gaming-hub.vercel.app/)
 Full-stack C2C gaming marketplace prototype featuring P2P gear trading, real-time negotiation chat, AI hardware inspection, and community hub.
 - **Live Demo:** [pgh-gaming-hub.vercel.app](https://pgh-gaming-hub.vercel.app/)
-- **Repository:** [Farhanpathan12/gaming-hub-](https://github.com/Farhanpathan12/gaming-hub-)
+- **Repository:** [Farhanpathan12/gaming-hub](https://github.com/Farhanpathan12/gaming-hub)
 
 ---
 
